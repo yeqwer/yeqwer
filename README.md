@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeqwer&label=Profile%20views&color=0e75b6&style=flat" alt="yeqwer" /> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeqwer&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeqwer&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=donut-vertical&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
