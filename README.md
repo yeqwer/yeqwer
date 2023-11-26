@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeqwer&label=Profile%20views&color=0e75b6&style=flat" alt="yeqwer" /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=donut&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=donut-vertical&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yeqwer/yeqwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
