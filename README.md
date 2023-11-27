@@ -15,7 +15,7 @@ Skills: Unity Profiler / usage SDK / DI / Addressables / ECS
 - 🌱 I’m currently learning Solidity 
 - 📫 How to reach me: andreymixler@gmail.com 
 
-[<img src="https://img.icons8.com/?size=256&id=46565" alt="github" height='80'>](https://github.com/yeqwer)    [<img src='https://img.icons8.com/?size=256&id=42823' alt='linkedin' height='80'>](https://www.linkedin.com/in/yeqwer/)    [<img src='https://img.icons8.com/?size=256&id=42789' alt='website' height='80'>](https://yeqwer.netlify.app/)    [<img src='https://img.icons8.com/?size=256&id=42818' alt='instagram' height='80'>](https://www.instagram.com/qq.stfu.bb/)    [<img src='https://img.icons8.com/?size=256&id=103814' alt='telegram' height='80'>](https://t.me/haslaur)    [<img src='https://img.icons8.com/?size=256&id=oDrvIzA6u0Wu' alt='mail' height='80'>]("< a href="mailto:john@example.com">Andrey< /a>") 
+[<img src="https://img.icons8.com/?size=256&id=46565" alt="github" height='80'>](https://github.com/yeqwer)    [<img src='https://img.icons8.com/?size=256&id=42823' alt='linkedin' height='80'>](https://www.linkedin.com/in/yeqwer/)    [<img src='https://img.icons8.com/?size=256&id=42789' alt='website' height='80'>](https://yeqwer.netlify.app/)    [<img src='https://img.icons8.com/?size=256&id=42818' alt='instagram' height='80'>](https://www.instagram.com/qq.stfu.bb/)    [<img src='https://img.icons8.com/?size=256&id=103814' alt='telegram' height='80'>](https://t.me/haslaur)    [<img src='https://img.icons8.com/?size=256&id=oDrvIzA6u0Wu' alt='mail' height='80'>]("mailto:andreymixler@gmail.com") 
 
 
 
