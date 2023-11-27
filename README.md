@@ -13,9 +13,9 @@ Skills: <!-- Unity Profiler / usage SDK / DI / Addressables / ECS -->
 
 * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity Game Engine**
 
-    * <img height="35" width="30" align="center" src="https://img.icons8.com/?size=256&id=46990"> **Zenject** - Dependency injection framework
+    * <img height="35" align="center" src="https://img.icons8.com/?size=256&id=46990"> **Zenject** - Dependency injection framework
 
-    * <img height="35" align="center" src="assets/images/raster/mirror-logo.png"> **Mirror Networking** - Networking library for Unity
+    * <img height="35" align="center" src="https://img.icons8.com/?size=256&id=47048"> **Addressables package** - Unity Addressable Asset System
 <!--
 - 🔭 I’m currently working on small hyper-casual projects 
 - 🌱 I’m currently learning Solidity 
