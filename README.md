@@ -19,11 +19,11 @@ Skills: Unity Profiler / usage SDK / DI / Addressables / ECS
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p> </p>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=yeqwer&show_icons=true&rank_icon=github&theme=dark&card_width=400" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=yeqwer&show_icons=true&rank_icon=github&theme=dark&card_width=450" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <p> </p>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=compact&show_icons=true&theme=dark&card_width=370" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=compact&show_icons=true&theme=dark&card_width=420" />
 </a>
 <a href="https://git.io/streak-stats">
   <p> </p>
