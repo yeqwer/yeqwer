@@ -13,7 +13,7 @@ Skills: <!-- Unity Profiler / usage SDK / DI / Addressables / ECS -->
 
 * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity Game Engine**
 
-    * <img height="35" align="center" src="https://img.icons8.com/?size=256&id=46990"> **Zenject** - Dependency injection framework
+    * <img height="35" width="35" align="center" src="https://img.icons8.com/?size=256&id=46990"> **Zenject** - Dependency injection framework
 
     * <img height="35" align="center" src="assets/images/raster/mirror-logo.png"> **Mirror Networking** - Networking library for Unity
 <!--
