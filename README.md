@@ -3,13 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeqwer&label=Profile%20views&color=0e75b6&style=flat" alt="yeqwer" /> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align=right" src="https://github-readme-stats.vercel.app/api?username=yeqwer&show_icons=true&rank_icon=github&theme=dark&card_width=400" />
+  <img height=200 align=right src="https://github-readme-stats.vercel.app/api?username=yeqwer&show_icons=true&rank_icon=github&theme=dark&card_width=400" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yeqwer&theme=dark&card_width=400" alt="yeqwer" />
+  <img height=200 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=yeqwer&theme=dark&card_width=400" alt="yeqwer" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=compact&show_icons=true&theme=dark&card_width=380" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=compact&show_icons=true&theme=dark&card_width=380" />
 </a>
 
 ###
