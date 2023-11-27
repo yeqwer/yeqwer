@@ -9,7 +9,7 @@
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yeqwer&theme=dark&card_width=420" alt="yeqwer" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=compact&show_icons=true&theme=dark&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=compact&show_icons=true&theme=dark&card_width=350" />
 </a>
 
 ###
