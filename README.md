@@ -8,11 +8,11 @@
 </a>
 <a href="https://git.io/streak-stats">
   <p> </p>
-  <img height=200 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=yeqwer&theme=dark&card_width=400" alt="yeqwer" />
+  <img height=200 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=yeqwer&theme=dark&card_width=420" alt="yeqwer" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <p> </p>
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=compact&show_icons=true&theme=dark" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=compact&show_icons=true&theme=dark&card_width=350" />
 </a>
 
 ###
