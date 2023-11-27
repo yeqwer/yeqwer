@@ -6,14 +6,15 @@
   <p> </p>
   <img height=200 align=right src="https://github-readme-stats.vercel.app/api?username=yeqwer&show_icons=true&rank_icon=github&theme=transparent&card_width=400" />
 </a>
-<a href="https://git.io/streak-stats">
-  <p> </p>
-  <img height=200 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=yeqwer&theme=transparent&card_width=437" alt="yeqwer" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <p> </p>
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=compact&show_icons=true&theme=transparent&card_width=370" />
 </a>
+<a href="https://git.io/streak-stats">
+  <p> </p>
+  <img height=200 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=yeqwer&theme=transparent&card_width=437" alt="yeqwer" />
+</a>
+
 
 ###
 
