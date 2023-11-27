@@ -27,7 +27,7 @@ Skills: Unity Profiler / usage SDK / DI / Addressables / ECS
 </a>
 <a href="https://git.io/streak-stats">
   <p> </p>
-  <img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com?user=yeqwer&theme=dark&card_width=500" alt="yeqwer" />
+  <img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com?user=yeqwer&theme=dark&card_width=480" alt="yeqwer" />
 </a>
 
 <!--
