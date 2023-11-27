@@ -9,10 +9,9 @@
 
 Platforms: Android, PC, WebGl
 
-Skills: Unity Profiler / usage SDK / DI / Addressables / ECS
-**Game Engines:**
+Skills: <!-- Unity Profiler / usage SDK / DI / Addressables / ECS -->
 
-* <img height="40" align="center" src="assets/images/raster/unity-logo.png"> **Unity Game Engine**
+* <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity Game Engine**
 
     * <img height="35" align="center" src="assets/images/raster/zenject-logo.png"> **Zenject** - Dependency injection framework
 
