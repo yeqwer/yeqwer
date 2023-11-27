@@ -9,11 +9,11 @@
 <br> </br>
 <!---->
 ## **My directions**
-  <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity Game Engine** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity**
+  <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity**
 <!---->
 ## **Skills:** <!-- Unity Profiler / usage SDK / DI / Addressables / ECS -->
 
-* <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity Game Engine**
+* <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**
 
     * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=46990"> **Zenject** - Dependency injection framework
 
