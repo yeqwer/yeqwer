@@ -9,7 +9,7 @@
 
 Platforms: Android, PC, WebGl
 
-<img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> **Android** <br><br>|<br><br><img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> **PC**  | <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> **WebGl**
+<img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> **Android** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> **PC**  | <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> **WebGl**
 
 Skills: <!-- Unity Profiler / usage SDK / DI / Addressables / ECS -->
 
