@@ -8,7 +8,7 @@
 #### I am Unity Developer
 
 Platforms: Android, PC, WebGl
-* <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882">
+* <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882">    <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262">    <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909">
 
 Skills: <!-- Unity Profiler / usage SDK / DI / Addressables / ECS -->
 
