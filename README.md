@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeqwer&show_icons=true&locale=en" alt="yeqwer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeqwer&" alt="yeqwer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeqwerr&layout=compact&show_icons=true&theme=dracula" alt="yeqwer" /></p>
 
