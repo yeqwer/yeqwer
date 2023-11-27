@@ -1,8 +1,7 @@
-### Hi there 👋, my name is Andrey
-#### I am Unity Developer
 ![I am Unity Developer](https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif)
 
-<img src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif">
+### Hi there 👋, my name is Andrey
+#### I am Unity Developer
 
 I am a proficient and adaptable developer with expertise in Unity. 
 My objective is to enhance
