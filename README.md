@@ -1,5 +1,3 @@
-# **yeqwer**
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yeqwer&label=Profile%20views&color=0e75b6&style=flat" alt="yeqwer" /> 
 </p>
@@ -8,10 +6,7 @@
 
 ### Hi there, my name is Andrey
 ### And I am Unity Developer
-
-## **Platforms:**
-
-<img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> **Android** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> **PC** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> **WebGl**
+<br> </br>
 
 ## **Skills:** <!-- Unity Profiler / usage SDK / DI / Addressables / ECS -->
 
@@ -20,6 +15,11 @@
     * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=46990"> **Zenject** - Dependency injection framework
 
     * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=47048"> **Addressables package** - Unity Addressable Asset System
+ 
+## **Platforms:**
+
+<img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> **Android** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> **PC** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> **WebGl**
+
 <!--
 - 🔭 I’m currently working on small hyper-casual projects 
 - 🌱 I’m currently learning Solidity 
