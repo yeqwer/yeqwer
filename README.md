@@ -1,3 +1,27 @@
+### Hi there 👋, my name is Andrey
+#### I am Unity Developer
+![I am Unity Developer](https://i.pinimg.com/originals/38/16/e8/3816e82ff6993aa9407a99281ed68ac1.gif)
+
+I am a proficient and adaptable developer with expertise in Unity. 
+My objective is to enhance
+my skill set by collaborating with a team of innovative, intelligent, and pragmatic professionals.
+The exchange of knowledge and the pursuit of novel concepts are integral aspects of my
+personal and professional growth.
+
+Platforms: Android, PC, WebGl
+
+Skills: Unity Profiler / usage SDK / DI / Addressables / ECS
+
+- 🔭 I’m currently working on small hyper-casual projects 
+- 🌱 I’m currently learning Solidity 
+- 📫 How to reach me: andreymixler@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yeqwer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yeqwer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yeqwer.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/haslaur)  
+
+
+
+
 ### Hi there 👋, I'm Ardrey 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeqwer&label=Profile%20views&color=0e75b6&style=flat" alt="yeqwer" /> </p>
