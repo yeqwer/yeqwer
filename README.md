@@ -23,7 +23,8 @@ Skills: Unity Profiler / usage SDK / DI / Addressables / ECS
 
 [<img src="https://img.icons8.com/?size=256&id=46565" alt="github" height='80'>](https://github.com/yeqwer)  
 [<img src='https://img.icons8.com/?size=256&id=42823' alt='linkedin' height='80'>](https://www.linkedin.com/in/yeqwer/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yeqwer.netlify.app/)  
+[<img src='https://img.icons8.com/?size=256&id=42789' alt='website' height='80'>](https://yeqwer.netlify.app/)  
+[<img src='https://img.icons8.com/?size=256&id=42818' alt='instagram' height='80'>](https://www.instagram.com/qq.stfu.bb/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/haslaur)  
 
 
