@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Ardrey 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeqwer&label=Profile%20views&color=0e75b6&style=flat" alt="yeqwer" /> </p>
 
