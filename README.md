@@ -3,14 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeqwer&label=Profile%20views&color=0e75b6&style=flat" alt="yeqwer" /> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yeqwer&show_icons=true&rank_icon=percentile&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yeqwer&show_icons=true&rank_icon=github&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=compact&show_icons=true&theme=dracula" />
 </a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeqwer&label=Profile%20views&color=0e75b6&style=flat" alt="yeqwer" /> </p>
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
