@@ -9,6 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeqwer&layout=compact&show_icons=true&theme=dark" />
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeqwer&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yeqwer&theme=dark" alt="yeqwer" /></p>
 
