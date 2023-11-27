@@ -21,7 +21,6 @@ Skills: Unity Profiler / usage SDK / DI / Addressables / ECS
 - 🌱 I’m currently learning Solidity 
 - 📫 How to reach me: andreymixler@gmail.com 
 
-
 [<img data-v-6be23ab2="" srcset="https://img.icons8.com/?size=256&amp;id=iEBcQcM9rnZ9&amp;format=png 1x, https://img.icons8.com/?size=512&amp;id=iEBcQcM9rnZ9&amp;format=png 2x" width="256" height="256" alt="GitHub icon" class="app-preview__image-origin" style="">](https://github.com/yeqwer)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yeqwer/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yeqwer.netlify.app/)  
