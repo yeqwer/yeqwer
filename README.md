@@ -8,7 +8,7 @@
 ### And I am Unity Developer
 <br> </br>
 <!---->
-## **My directions**
+## **My directions:**
   <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity**
 <!---->
 ## **Skills:** <!-- Unity Profiler / usage SDK / DI / Addressables / ECS -->
@@ -29,11 +29,11 @@
 - 📫 How to reach me: andreymixler@gmail.com 
 -->
 <!---->
-## **Links**
+## **Links:**
 
 [<img src="https://img.icons8.com/?size=256&id=46565" alt="github" height='80'>](https://github.com/yeqwer)    [<img src='https://img.icons8.com/?size=256&id=103814' alt='telegram' height='80'>](https://t.me/haslaur)    [<img src='https://img.icons8.com/?size=256&id=42789' alt='website' height='80'>](https://yeqwer.netlify.app/)    [<img src='https://img.icons8.com/?size=256&id=42818' alt='instagram' height='80'>](https://www.instagram.com/qq.stfu.bb/)    [<img src='https://img.icons8.com/?size=256&id=42823' alt='linkedin' height='80'>](https://www.linkedin.com/in/yeqwer/)    [<img src='https://img.icons8.com/?size=256&id=oDrvIzA6u0Wu' alt='mail' height='80'>](mailto:andreymixler@gmail.com) 
 <!---->
-## **Stats**
+## **Stats:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p> </p>
