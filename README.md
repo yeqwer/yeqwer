@@ -10,7 +10,7 @@
 <!---->
 
 ## **My directions:**
-  <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity** &nbsp; | &nbsp; <img height="40" align="center" src="ttps://img.icons8.com/?size=256&id=54949"> **.NET Core** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity** &nbsp; | &nbsp; <img height="40"   align="center" src="https://img.icons8.com/?size=256&id=JwuCJ3weFjxo"> **Blender**
+  <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=54949"> **.NET Core** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity** &nbsp; | &nbsp; <img height="40"   align="center" src="https://img.icons8.com/?size=256&id=JwuCJ3weFjxo"> **Blender**
   
 <!---->
 
