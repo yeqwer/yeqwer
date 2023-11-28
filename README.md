@@ -11,9 +11,9 @@
 
 ## **My directions:**
 
- * **Main:** <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**
+ * **Main:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**
  
- * **Sub:** <img height="40" align="center" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg"> **.NET Core** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity** &nbsp; | &nbsp; <img height="40"   align="center" src="https://img.icons8.com/?size=256&id=JwuCJ3weFjxo"> **Blender**
+ * **Sub:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=g21ZXaNhmgdU"> **.NET Core** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity** &nbsp; | &nbsp; <img height="40"   align="center" src="https://img.icons8.com/?size=256&id=JwuCJ3weFjxo"> **Blender**
   
 <!---->
 
