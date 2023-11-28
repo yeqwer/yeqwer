@@ -20,6 +20,8 @@
     * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=47048"> **Addressables package** - Unity Addressable Asset System
  
     * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=doKT91sYRzf8"> **Unity Profiler** - Profiling application
+ 
+    * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=46891"> **Using SDK** - Software development kit
 
     * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> **Android** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> **PC** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> **WebGl**
 <!---->
