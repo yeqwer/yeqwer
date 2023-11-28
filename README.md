@@ -13,7 +13,7 @@
 
  * **Main:** <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**
  
- * **Sub:** <img height="40" align="center" src="https://img.icons8.com/?size=256&id=54949"> **.NET Core** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity** &nbsp; | &nbsp; <img height="40"   align="center" src="https://img.icons8.com/?size=256&id=JwuCJ3weFjxo"> **Blender**
+ * **Sub:** <img height="40" align="center" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg"> **.NET Core** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity** &nbsp; | &nbsp; <img height="40"   align="center" src="https://img.icons8.com/?size=256&id=JwuCJ3weFjxo"> **Blender**
   
 <!---->
 
