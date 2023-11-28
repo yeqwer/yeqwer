@@ -13,7 +13,7 @@
 
  * **Main:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**
  
- * **Sub:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity** &nbsp; | &nbsp; <img height="40"   align="center" src="https://img.icons8.com/?size=256&id=JwuCJ3weFjxo"> **Blender**
+ * **Sub:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=JwuCJ3weFjxo"> **Blender** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity**
   
 <!---->
 
