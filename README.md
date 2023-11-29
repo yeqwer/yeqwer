@@ -21,9 +21,7 @@
 
 * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**
   <br> </br>
-**Platforms:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> **Android** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> **PC** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> **WebGl** &nbsp;
-    * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=46990"> **Zenject** - Dependency injection framework
-      
+     
     * **Zenject** - Dependency injection framework
 
     * **Addressables package** - Unity Addressable Asset System
@@ -31,8 +29,8 @@
     * **Unity Profiler** - Profiling application
  
     * **Using SDK** - Software development kit
-
-  
+      
+    * **Platforms:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> **Android** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> **PC** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> **WebGl** &nbsp;
 
 <!---->
 <!-- ## **Platforms:**
@@ -86,8 +84,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 </p>
-      
-    * <img height="40" align="center" src="https://github.com/modesttree/Zenject/blob/master/Documentation/Images/ZenjectLogo.png"> **Zenject** - Dependency injection framework
+    * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=46990"> **Zenject** - Dependency injection framework
 
     * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=47048"> **Addressables package** - Unity Addressable Asset System
  
