@@ -20,6 +20,8 @@
 ## **Skills:** <!-- Unity Profiler / usage SDK / DI / Addressables / ECS -->
 
 * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**
+  
+    **<img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> **Android** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> **PC** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> **WebGl**
 
     * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=46990"> **Zenject** - Dependency injection framework
 
@@ -29,7 +31,7 @@
  
     * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=46891"> **Using SDK** - Software development kit
 
-    * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> **Android** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> **PC** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> **WebGl**
+  
 
 <!---->
 <!-- ## **Platforms:**
