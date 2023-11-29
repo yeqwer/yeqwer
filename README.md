@@ -30,7 +30,7 @@
  
     * **Using SDK** - Software development kit
       
-    * **Platforms:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> **Android** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> **PC** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> **WebGl** &nbsp;
+    * **Platforms:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> Android &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> PC &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> WebGl &nbsp;
 
 <!---->
 <!-- ## **Platforms:**
