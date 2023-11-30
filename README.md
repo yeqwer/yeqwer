@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yeqwer&label=Profile%20views&color=0e75b6&style=flat" alt="yeqwer" /> 
+  <img src="https://komarev.com/ghpvc/?username=yeqwer&label=Profile%20views&color=blueviolet&style=flat" alt="yeqwer" /> 
 </p>
 <!-- ![I am Unity Developer](https://i.pinimg.com/originals/72/e9/c3/72e9c33f3327bfb2485c80b3188e41fb.gif) -->
 <img src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif">
