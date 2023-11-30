@@ -7,6 +7,7 @@
 ### Hi there, my name is Andrey
 ### And I am Unity Developer
 <br> </br>
+
 <!---->
 
 ## **My directions:**
@@ -20,6 +21,8 @@
 ## **Skills:** <!-- Unity Profiler / usage SDK / DI / Addressables / ECS -->
 
 * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**
+
+    * **Platforms:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> Android &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> PC &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> WebGl &nbsp;
      
     * **Zenject** - Dependency injection framework
       
@@ -31,23 +34,14 @@
       
     * **Unity Profiler** - Profiling application
       
-    * **Platforms:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> Android &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> PC &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> WebGl &nbsp;
-
 <!---->
-<!-- ## **Platforms:**
 
-
-
-<!--
-- 🔭 I’m currently working on small hyper-casual projects 
-- 🌱 I’m currently learning Solidity 
-- 📫 How to reach me: andreymixler@gmail.com 
--->
-<!---->
 ## **Links:**
 
 [<img src="https://img.icons8.com/?size=256&id=46565" alt="github" height='80'>](https://github.com/yeqwer)    [<img src='https://img.icons8.com/?size=256&id=103814' alt='telegram' height='80'>](https://t.me/haslaur)    [<img src='https://img.icons8.com/?size=256&id=42789' alt='website' height='80'>](https://yeqwer.netlify.app/)    [<img src='https://img.icons8.com/?size=256&id=42818' alt='instagram' height='80'>](https://www.instagram.com/qq.stfu.bb/)    [<img src='https://img.icons8.com/?size=256&id=42823' alt='linkedin' height='80'>](https://www.linkedin.com/in/yeqwer/)    [<img src='https://img.icons8.com/?size=256&id=oDrvIzA6u0Wu' alt='mail' height='80'>](mailto:andreymixler@gmail.com) 
+
 <!---->
+
 ## **Stats:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -62,7 +56,9 @@
   <p> </p>
   <img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com?user=yeqwer&theme=dark&card_width=480" alt="yeqwer" />
 </a>
+
 <!---->
+
 <!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
