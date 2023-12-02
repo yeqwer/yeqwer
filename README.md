@@ -4,9 +4,7 @@
 <!-- ![I am Unity Developer](https://i.pinimg.com/originals/72/e9/c3/72e9c33f3327bfb2485c80b3188e41fb.gif) -->
 <img src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif">
 
-### Hi there, my name is Andrey
-### And I am Unity Developer
-<br> </br>
+### Hi there, my name is Andrey and I am Unity Developer
 
 <!---->
 
