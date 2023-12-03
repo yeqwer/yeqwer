@@ -22,16 +22,26 @@
 
     * **Platforms:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> Android &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> PC &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> WebGl &nbsp;
      
-    * **Zenject** - Dependency injection framework
+    * **Zenject/other DI**
       
-    * **Addressables package** - Unity Addressable Asset System
+    * **Addressables**
       
-    * **Using SDK** - Software development kit
+    * **Yandex/Firebase/other SDK**
       
-    * **Understand ECS** - Entity Component System
+    * **Unity Profiler**
+      
+    * learning **ECS**
+    <!--    
+    * **Zenject/other DI** - Dependency injection framework
+      
+    * **Addressables** - Unity Addressable Asset System
+      
+    * **Yandex/Firebase/other SDK** - Software development kit
       
     * **Unity Profiler** - Profiling application
       
+    * learning **ECS** - Entity Component System
+    -->
 <!---->
 
 ## **Links:**
