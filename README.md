@@ -31,17 +31,8 @@
     * **Unity Profiler**
       
     * **ECS** learning
-    <!--    
-    * **Zenject/other DI** - Dependency injection framework
-      
-    * **Addressables** - Unity Addressable Asset System
-      
-    * **Yandex/Firebase/other SDK** - Software development kit
-      
-    * **Unity Profiler** - Profiling application
-      
-    * learning **ECS** - Entity Component System
-    -->
+ 
+* <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity**
 <!---->
 
 ## **Links:**
