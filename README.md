@@ -24,13 +24,13 @@
      
     * **Zenject/other DI**
       
-    * **Addressables**
-      
     * **Yandex/Firebase/other SDK**
+      
+    * **Addressables**
       
     * **Unity Profiler**
       
-    * learning **ECS**
+    * **ECS** learning
     <!--    
     * **Zenject/other DI** - Dependency injection framework
       
