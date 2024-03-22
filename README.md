@@ -10,7 +10,7 @@
 
 ## **My directions:**
 
- * **Main:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=55251"> **Unity**
+ * **Main:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=55251"> **C Sharp**
  
  * **Secondary:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=JwuCJ3weFjxo"> **Blender**  
   
