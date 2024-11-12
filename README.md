@@ -4,15 +4,15 @@
 <!-- ![I am Unity Developer](https://i.pinimg.com/originals/72/e9/c3/72e9c33f3327bfb2485c80b3188e41fb.gif) -->
 <img src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif">
 
-### Hi there, my name is Andrei and I am a Unity developer, welcome to my profile 👋
+### Hi there, my name is Andrei and I'm a Fullstack developer, welcome to my profile 👋
 
 <!---->
 
 ## **My directions:**
 
- * **Main:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=55251"> **C Sharp** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity** 
+ * **Main:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=108784"> **C Sharp** &nbsp; |
  
- * **Secondary:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=JwuCJ3weFjxo"> **Blender**  
+ * **Secondary:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=55251"> **C Sharp** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**  &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=JwuCJ3weFjxo"> **Blender**  
   
 <!---->
 
