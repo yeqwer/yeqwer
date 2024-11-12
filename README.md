@@ -10,7 +10,7 @@
 
 ## **My directions:**
 
- * **Main:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=108784"> **C Sharp** &nbsp; |
+ * **Main:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=108784"> **JavaScript** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=13441"> **Python** &nbsp; |
  
  * **Secondary:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=55251"> **C Sharp** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**  &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity** &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=JwuCJ3weFjxo"> **Blender**  
   
