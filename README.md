@@ -25,18 +25,8 @@
    &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=cdYUlRaag9G9"> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=cvzmaEA4kC0o"> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=UFXRpPFebwa2"> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=bosfpvRzNOG8">
 
 * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**
-
-    * **Platforms:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> Android &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> PC &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> WebGl &nbsp;
-     
-    * **Zenject/**
-      
-    * **Yandex/Firebase/**
-      
-    * **Addressables**
-      
-    * **Unity Profiler**
-      
-    * **ECS** learning
+  **Platforms:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> Android &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> PC &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> WebGl &nbsp;
+  **Zenject / Yandex SDK / Firebase / Addressables / Unity Profiler / ECS learning**
  
 <!--  * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity**  -->
 
