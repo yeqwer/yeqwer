@@ -26,9 +26,9 @@
 
 * **Unity:**
   
-  **Platforms:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> Android &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> PC &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> WebGl &nbsp;
+  **Platforms:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> Android &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> PC &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> WebGl &nbsp;
   
-  **Technologies: Zenject / Yandex SDK / Firebase / Addressables / Unity Profiler / ECS learning**
+  **Technologies: Zenject | Yandex SDK | Firebase | Addressables | Unity Profiler | ECS learning**
  
 <!--  * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=HOpiPSjPWNNd"> **Solidity**  -->
 
