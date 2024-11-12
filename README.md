@@ -18,6 +18,8 @@
 
 ## **Skills:** <!-- Unity Profiler / usage SDK / DI / Addressables / ECS -->
 
+* <img height="40" align="center" src="https://img.icons8.com/?size=256&id=cdYUlRaag9G9"> 
+
 * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**
 
     * **Platforms:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> Android &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> PC &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> WebGl &nbsp;
