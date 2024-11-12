@@ -19,19 +19,19 @@
 ## **Skills:** <!-- Unity Profiler / usage SDK / DI / Addressables / ECS -->
 
  * **Client side:**
-   &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=20909"> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=21278"> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=108784"> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=wPohyHO_qO1a"> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=wpZmKzk11AzJ "> &nbsp;
+   &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=20909"> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=21278"> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=108784"> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=wpZmKzk11AzJ "> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=wPohyHO_qO1a"> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=g9mmSxx3SwAI"> &nbsp;
   
  * **Server side**
 
-<img height="40" align="center" src="https://img.icons8.com/?size=256&id=cdYUlRaag9G9"> &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=cvzmaEA4kC0o"> &nbsp; | |  | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=g9mmSxx3SwAI"> &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=UFXRpPFebwa2"> 
+<img height="40" align="center" src="https://img.icons8.com/?size=256&id=cdYUlRaag9G9"> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=cvzmaEA4kC0o"> &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=UFXRpPFebwa2"> 
 
 * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**
 
     * **Platforms:** &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42882"> Android &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=43262"> PC &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=42909"> WebGl &nbsp;
      
-    * **Zenject/other DI**
+    * **Zenject/**
       
-    * **Yandex/Firebase/other SDK**
+    * **Yandex/Firebase/**
       
     * **Addressables**
       
