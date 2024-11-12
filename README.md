@@ -18,7 +18,12 @@
 
 ## **Skills:** <!-- Unity Profiler / usage SDK / DI / Addressables / ECS -->
 
-<img height="40" align="center" src="https://img.icons8.com/?size=256&id=cdYUlRaag9G9"> &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=cvzmaEA4kC0o"> &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=20909"> &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=21278"> &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=wPohyHO_qO1a"> &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=g9mmSxx3SwAI"> &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=UFXRpPFebwa2"> 
+ * **Client side**
+     * &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=20909"> &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=21278"> &nbsp; |
+  
+ * **Server side**
+
+<img height="40" align="center" src="https://img.icons8.com/?size=256&id=cdYUlRaag9G9"> &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=cvzmaEA4kC0o"> &nbsp; | | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=wPohyHO_qO1a"> &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=g9mmSxx3SwAI"> &nbsp; | &nbsp; <img height="40" align="center" src="https://img.icons8.com/?size=256&id=UFXRpPFebwa2"> 
 
 * <img height="40" align="center" src="https://img.icons8.com/?size=256&id=VLjW6zFrsq2F"> **Unity**
 
